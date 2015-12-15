@@ -79,15 +79,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "prueba.html",
-			"settings":
-			{
-				"buffer_size": 146,
-				"line_ending": "Unix",
-				"name": "<A HREF=\"javascript:window.location.href=`view-sou"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -130,6 +121,7 @@
 	},
 	"file_history":
 	[
+		"/Users/ocre04/Desktop/TRABAJOS MARCOS/Pruebas/prueba.html",
 		"/Users/ocre04/Desktop/TRABAJOS MARCOS/NTC/web/html/maderas.html",
 		"/Users/ocre04/Desktop/TRABAJOS MARCOS/NTC/vendor/js/menus.js",
 		"/Users/ocre04/Desktop/TRABAJOS MARCOS/NTC/web/css/main.css",
@@ -187,38 +179,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "prueba.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 146,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								145,
-								146
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<A HREF=\"javascript:window.location.href=`view-sou",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
